@@ -88,9 +88,8 @@ int get_len(int n)
 		n1 = n * -1;
 	}
 	else
-	{
 		n1 = n;
-	}
+
 	while (n1 > 9)
 	{
 		lenght++;
