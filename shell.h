@@ -197,7 +197,7 @@ int get_help(data_shell *datash);
 /* _exit.c */
 int exit_shell(data_shell *datash);
 
-/* aux_stdlib.c */
+/* stdlib.c */
 int get_len(int n);
 char *aux_itoa(int n);
 int _atoi(char *s);
