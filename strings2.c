@@ -15,6 +15,7 @@ char *_strdup(const char *s)
 	if (new == NULL)
 		return (NULL);
 	_memcpy(new, s, len + 1);
+
 	return (new);
 }
 
