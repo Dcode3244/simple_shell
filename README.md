@@ -1,10 +1,10 @@
 # Simple Shell
 
-![alt text](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg)
+A simple UNIX command interpreter written as part of the low-level programming and algorithm track at ALX.
 
 ### Description
 
-Remi Oni and Tolulope Fakunle Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
+Our Shell is a simple UNIX command interpreter that replicates functionalities of the simple shell (sh). Additional functions are also included. This program was written entirely in C as a milestone project for ALX Africa Software Engineering.
 
 ### Installation
 
@@ -44,6 +44,6 @@ Our shell has support for the following built-in commands:
 
 ### Credits
 
-Code written by
-* Zekarias Behailu <[ZekaraisBehailu](https://ZekariasBehailu)>
+AUTHORED BY
 * Dagim Ourgie <[Dcode3244](https://github.com/Dcode3244)>
+* Zekarias Behailu <[ZekaraisBehailu](https://ZekariasBehailu)>
